@@ -1,2 +1,2 @@
 # chibikawai.github.io
-Proyecto Certus Planificado en GitHub Pages 
+Proyecto Certus Publicado en GitHub Pages 
